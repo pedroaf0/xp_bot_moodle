@@ -1,0 +1,14 @@
+{
+  "name": "xp_bot_moodle",
+  "version": "1.0.0",
+  "description": "A bot to get xp on moodle",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "pedroaf0",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
+}
